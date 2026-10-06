@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Business Orders",
+    "slug": "billing-app-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1677ff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.business.orders"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1677ff"
+      },
+      "package": "com.business.orders"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
